@@ -1,4 +1,2 @@
-Приложение CriminalIntent
-из книги
-Филлипс Б., Стюарт К., Марсикано К.
-"Android. Программирование для профессионалов."
+Bài này làm trên thư viện android! không pahir androidX nên rất nhiều lỗi nha!
+Have Fun!
